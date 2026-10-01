@@ -62,5 +62,5 @@ Ryujin Nmap can detect whether Nmap is installed and attempt to install it autom
 Clone the repository:
 
 ```bash
-git clone <YOUR-REPOSITORY-URL>
+git clone https://github.com/whilehat/Ryujin-Nmap.git
 cd Ryujin-Nmap
